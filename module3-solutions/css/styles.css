@@ -1,0 +1,36 @@
+body{
+    font-size: 16px;
+    background-color: rgb(14, 8, 10);
+    font-family: 'Oxygen', sans-serif;
+}
+#head{
+  font-weight: bold;
+  color: black;
+  font-size: 30px;
+}
+#nav-list{
+    margin-top: 0px;
+}
+#nav-list a{
+ color: black;
+ text-align: center;
+}
+#nav-list a:hover{
+    background-color: rgb(152, 219, 196);
+}
+.navbar-header button.navbar-toggle,.navbar-header .icon-bar{
+    border: 2px solid black;
+}
+#cap{
+    height: 200px;
+    width: 100%;
+    border: 1px solid black;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: rgb(152, 219, 196);
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#menu{
+color: white;
+}
